@@ -1,0 +1,106 @@
+#header{
+    display: inline-block;
+    width: 100%;
+    height: 120px;
+    background-color: midnightblue;
+    padding-top: 15px;
+    padding-left: 15px;
+    color: lightskyblue;
+}
+#ot{
+    margin-right: 5%;
+    width: 18%;
+    height: 25px;
+    margin-top: 8px;
+    text-align: center;
+}
+#ol{
+    margin-right: 20%;
+    font-size: 1.5em;
+}
+#dt{
+    width: 18%;
+    height: 25px;
+    margin-top: 8px;
+    margin-right: 5%;
+    text-align: center;
+}
+#dl{
+    font-size: 1.5em;
+    margin-right: 15%;
+}
+#dtl{
+    font-size: 1.5em;
+}
+#date{
+    width: 18%;
+    height: 25px;
+    margin-top: 8px;
+    margin-right: 8%;
+    text-align: center;
+}
+#submit{
+    width: 18%;
+    height: 35px;
+    margin-top: 8px;
+    text-align: center;
+}
+#buyticket{
+    display: inline-block;
+    margin-top: 5%;
+    width: 100%;
+    height: 90px;
+    background: lawngreen;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 17px;
+    color: orange;
+    font-family: Arial, fantasy;
+    font-size: 2em;
+}
+#back{
+    text-align: center;
+    margin-left: 46%;
+}
+#tickets{
+    display: inline-block;
+    width: 20%;
+    height: 90px;
+    background-color: midnightblue;
+    text-align: center;
+    color: lightskyblue;
+}
+#logout{
+    float: right;
+    display: inline-block;
+    margin-right: 0px;
+    width: 20%;
+    height: 90px;
+    background-color: mediumvioletred;
+    text-align: center;
+    color: lightskyblue;
+}
+#del{
+    display: inline-block;
+    border-color: burlywood;
+    background-color: burlywood;
+}
+#del-tic{
+    display: inline-block;
+    background-color: lawngreen;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    font-size: 2em;
+}
+.tables{
+    margin-top: 1%;
+    margin-left: 19%;
+    background: burlywood;
+    width: 60%;
+    text-align: center;
+    border: 2px solid #5b2da0;
+}
+.borders{
+    border: 2px solid #5b2da0;
+}

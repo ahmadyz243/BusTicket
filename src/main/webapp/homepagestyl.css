@@ -1,0 +1,73 @@
+body{
+    background-color: dodgerblue;
+}
+#user-login{
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 280px;
+    height: 305px;
+    margin-top: 11%;
+    margin-left: 20%;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', Arial, Helvetica, sans-serif, 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#company-login{
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 280px;
+    height: 305px;
+    margin-top: 11%;
+    margin-left: 20%;
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', Arial, Helvetica, sans-serif, 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tuu{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+}
+#ppu{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+}
+#bu{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: blue;
+    border: none;
+    text-align: center;
+}
+#tuc{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+}
+#ppc{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+}
+#bc{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: blue;
+    border: none;
+    text-align: center;
+}
+.sucMsg{
+    color: darkgreen;
+}
+.msg{
+    color: red;
+}
