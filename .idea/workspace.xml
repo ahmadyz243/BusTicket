@@ -9,73 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7266b2d9-0e71-431d-b2e7-3b2b7a9daf02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByDestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/comprators/SortByOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/ComService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumiration/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/ComServiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/CompanyRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/PassengerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/TicketRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/ComServiceRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/CompanyRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/PassengerRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/impl/TicketRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/ComServiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/CompanyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/PassengerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/ComServiceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/CompanyServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/PassengerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/impl/TicketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AppContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/BuyTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/CompanyMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/CompanySignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/DeleteTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/PassengerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/PassengerSignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/view/ViewTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/BuyTicket.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/CompanyMenu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/CompanySignup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/DeleteTicket.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/HomePage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/PassengerMenu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/PassengerSignup.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/SuccessPayment.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ViewTicketInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/ViewTickets.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/homepagestyl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/passenger-menu-style.css" afterDir="false" />
-    </list>
+    <list default="true" id="7266b2d9-0e71-431d-b2e7-3b2b7a9daf02" name="Changes" comment="Bus Ticket Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,19 +61,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Rayan system/Desktop/java/BusTicket/OnlineTicketWebApp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rayan system/Desktop/java/BusTicket/OnlineTicketWebApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Rayan system\Desktop\java\BusTicket\OnlineTicketWebApp\src\main\webapp" />
@@ -297,7 +231,23 @@
       <workItem from="1661865717284" duration="2756000" />
       <workItem from="1662110819977" duration="616000" />
       <workItem from="1662194936424" duration="1089000" />
+      <workItem from="1663011723440" duration="311000" />
     </task>
+    <task id="LOCAL-00001" summary="Bus Ticket Project">
+      <created>1663011899240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663011899240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bus Ticket Project">
+      <created>1663011991172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663011991172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,5 +263,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bus Ticket Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bus Ticket Project" />
   </component>
 </project>
